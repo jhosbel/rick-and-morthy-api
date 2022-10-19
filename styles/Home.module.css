@@ -1,5 +1,10 @@
-.container {
+/* .container {
   padding: 0 2rem;
+} */
+
+.inicio {
+  background-color: #0070f3;
+  display: flex;
 }
 
 .main {
